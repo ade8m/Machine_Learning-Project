@@ -225,7 +225,7 @@
         "\n",
         "`**Building the model**`\n",
         "\n",
-        "`**After segregating the data, our next work is to find a good algorithm suited for our model. We can use a RandomForestClassifier for building the Hate Speech detection project. RandomForestClassifier are a type of Supervised Machine Learning used mainly for classification problems**`. \n",
+        "`**After segregating the data, our next work is to find a good algorithm suited for our model. We can use a DecisionTreeClassifier for building the Hate Speech detection project. DecisionTreeClassifier are a type of Supervised Machine Learning used mainly for classification problems**`. \n",
         "\n",
         "\n",
         "\n",
